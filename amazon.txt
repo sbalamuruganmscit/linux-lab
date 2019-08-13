@@ -1,3 +1,2 @@
 this is test file
-editing this file
-adding new line............
+editing master
